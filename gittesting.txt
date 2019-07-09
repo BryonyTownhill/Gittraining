@@ -1,4 +1,8 @@
-make some changes here to see if they save - here is the master file to make a change
+<<<<<<< HEAD
+make some changes here to see if they save. and edits here to see what happens.
+=======
+make some changes here to see if they save. and edits here to see what happens.
+>>>>>>> ext_doc
 some second changes to see if it can find the changes.
 and more changes.
 i'm going to add more edits at 11.25 to see if these commit.
