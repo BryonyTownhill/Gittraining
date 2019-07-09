@@ -2,5 +2,3 @@ make some changes here to see if they save
 some second changes to see if it can find the changes.
 and more changes.
 i'm going to add more edits at 11.25 to see if these commit.
-edits to see how github desktop wrorks.
-and more changed to make sure.
